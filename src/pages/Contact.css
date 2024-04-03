@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+.main{
+    height: 100%;
+    width: 100%;
+}
+.upper{
+    width: 100%;
+    height: 60%;
+    background-color: #EEF8FA;
+}
+.form{
+   padding-top: 60px;
+   padding-left: 140px;
+   padding-bottom: 30px;
+}
+.header-contact{
+font-size: 40px;
+font-weight: 50px;
+}
+.l-11{
+    width: 50px;
+    height: 2px;
+    background-color: rgb(83, 79, 79);
+    margin-left: 10px;
+   margin-top: 10px;
+   margin-bottom: 30px;
+}
+.line-1{
+    margin-bottom: 30px;
+    color: rgb(61, 59, 59);
+}
+.l-12{
+    height: 2px;
+    width: 250px;
+    background-color:rgb(83, 79, 79);
+    margin-top: 5px;
+   
+}
+.e-mail-cont{
+    margin-left: 10px;
+   /* margin-top: -32px; */
+   
+}
+.l-13{
+background-color: rgb(83, 79, 79);
+height: 2px;
+width: 250px;
+margin-left: 10px;
+margin-top:5px ;
+}
+h3{
+    font-family: "Playfair Display", serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        font-size: 20px;
+}
+.header-contact{
+    font-family: "Playfair Display", serif;
+        font-optical-sizing: auto;
+        font-weight: 600;
+        font-style: normal;
+}
+.mess{
+    padding-top: 30px;
+    padding-bottom: 5px;
+}
+.l-14{
+    background-color: rgb(83, 79, 79);
+    height: 2px;
+    width: 550px;
+}
+.b-1{
+    margin-top: 30px;
+    height: 40px;
+    width: 100px;
+    background-color: black;
+    color: white;
+    font-size: 13px;
+}
+
+.lower{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    gap:180px;
+}
+.lower-left{
+    margin-top: 50px;
+    margin-left: 160px;
+}
+.lower-middle{
+    margin-top: 40px;
+}
+.lower-right{
+    margin-top: 35px;
+}
+.l1,.l2,.l3{
+    background-color: rgb(61, 59, 59);
+    height: 2px;
+    width: 60px;
+    margin-top: 2px;
+    margin-bottom: 10px;
+}
+
+hr{
+    color: rgb(238, 229, 229);
+    width: -10px;
+    margin-top: 18px;
+}
+ .footer{
+    margin-top: 10px;
+    margin-left: 550px;
+    font-size: 13px;
+ }
+
+.p-4{
+padding-top: 2px;
+color: rgb(83, 82, 82);
+}
+.icons-link{
+    display: flex;
+    gap:10px;
+margin-top: 30px;
+}
+.Name,.e-mail-cont,.mess{
+    color:rgb(63, 62, 62);
+    border: none;
+    width: 300px;
+    background-color:#EEF8FA ;
+}
+.p-1,.p-2,.p-3,.icons-link,.footer{
+    color: rgb(65, 62, 62);
+}
+.div-div-2{
+    display: flex;
+}
